@@ -32,10 +32,10 @@ I love working with diverse tech stacks and learning new tools that can improve 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📬 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile/)
-- Email: your-email@example.com
-
+- [LinkedIn](https://www.linkedin.com/in/ghosh-d-473b2b1a6/)
+- [Medium](https://medium.com/@dipghoshraj)
+- Email: dipghoshraj@gmail.com
+  
 ## 🎯 Fun Facts & Interests
 - I love exploring new programming languages, and I'm diving deep into **Rust** and **Go** for performance-intensive applications.
 - I’m a huge fan of system design and performance optimization.
