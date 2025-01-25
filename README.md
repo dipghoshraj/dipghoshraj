@@ -7,7 +7,7 @@ I'm a Senior Software Engineer with a strong focus on backend development. I hav
 ## 🚀 About Me
 - **🔧 Skills**: Python, Rust, Go, Node.js, NestJS, Ruby on Rails, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS, GraphQL, RESTful APIs, Microservices
 - **💼 Current Role**: Senior Software Engineer at [Procore Technologies]
-- **🏆 Experience**: Over [X] years of building high-performance backend applications and scalable microservices.
+- **🏆 Experience**: Over 6 years of building high-performance backend applications and scalable microservices.
 - **🔍 Focus**: I focus on building robust APIs, optimizing performance, and writing clean, maintainable code. I'm passionate about distributed systems and performance engineering.
 
 I love working with diverse tech stacks and learning new tools that can improve developer productivity and system reliability.
